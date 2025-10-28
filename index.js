@@ -135,7 +135,7 @@ app.get('/CadProdutos',(req,res)=>{
                             </div>
                         </div>
                         <div class="col-12" id="btns">
-                            <button class="btn btn-outline-primary" type="submit">Submit form</button>
+                            <button class="btn btn-outline-primary" type="submit">enviar</button>
                             <a href="/" class="btn btn-outline-danger" > voltar</a>
                         </div>
                     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
