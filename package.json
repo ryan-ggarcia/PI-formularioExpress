@@ -1,0 +1,24 @@
+{
+  "name": "pi-formularioexpress",
+  "version": "1.0.0",
+  "description": "Formulario em express",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-ggarcia/PI-formularioExpress.git"
+  },
+  "author": "Ryan Fidelis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryan-ggarcia/PI-formularioExpress/issues"
+  },
+  "homepage": "https://github.com/ryan-ggarcia/PI-formularioExpress#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
